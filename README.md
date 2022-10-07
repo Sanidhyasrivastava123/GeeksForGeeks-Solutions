@@ -7,7 +7,7 @@
 
 ## Solutions
 
-* [Array](https://github.com/Sanidhyasrivastava123/LeetCode-Solutions#array)
+* [Array](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions#array)
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
