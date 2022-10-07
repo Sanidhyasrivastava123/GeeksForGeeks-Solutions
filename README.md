@@ -12,4 +12,4 @@
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
-1 | [Reverse an array](https://practice.geeksforgeeks.org/problems/reverse-an-array/0) | [Java](./Java/Min&Max.java )  | _O(n)_ | _O(1)_      | School         ||
+1 | [Reverse an array](https://practice.geeksforgeeks.org/problems/reverse-an-array/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Min%26Max.java)  | _O(n)_ | _O(1)_      | School         ||
