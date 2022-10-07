@@ -1,6 +1,15 @@
 # [GeeksForGeeks](https://www.geeksforgeeks.org/)
 
 ![Language](https://img.shields.io/badge/language-JAVA%20%20-orange.svg)&nbsp;
-![Progress](https://img.shields.io/badge/progress-0%20%2F%20300-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-2%20%2F%20450-ff69b4.svg)&nbsp;
 [![SayThanks](https://img.shields.io/badge/say-thanks-ff69f4.svg)](https://saythanks.io/to/kamyu104)&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Sanidhyasrivastava123.leetcode.solutions)
+
+## Solutions
+
+* [Array](https://github.com/kamyu104/LeetCode-Solutions#array)
+
+## Array
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |
+1 | [Reverse an array](https://practice.geeksforgeeks.org/problems/reverse-an-array/0) | [Java](./Java/Min&Max.java )  | _O(n)_ | _O(1)_      | School         ||
