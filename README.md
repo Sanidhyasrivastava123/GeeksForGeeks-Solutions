@@ -6,7 +6,12 @@
 
 ## Solutions
 
+* [Mathematics](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions#mathematics)
 * [Array](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions#array)
+
+## Mathematics
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
