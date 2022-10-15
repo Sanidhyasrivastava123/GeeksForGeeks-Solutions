@@ -15,6 +15,8 @@
 1 | [Count Digits](https://practice.geeksforgeeks.org/problems/count-digits5716/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Mathematics/CountDigits.java)  | _O(n)_ | _O(1)_      | School         ||
 2 | [Reverse Bits](https://practice.geeksforgeeks.org/problems/reverse-bits3556/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Mathematics/ReverseBits.java)  | _O(n)_ | _O(1)_      | Easy       ||
 3 | [Pallindrome](https://practice.geeksforgeeks.org/problems/palindrome0746/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Mathematics/Pallindrome.java)  | _O(n)_ | _O(1)_      | School      ||
+4 | [LCM and GCD](https://practice.geeksforgeeks.org/problems/lcm-and-gcd4516/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Mathematics/GCD-LCM.java)  | _O(log(min(A, B))_ | _O(1)_      | Basic     ||
+5 | [Armstrong Numbers](https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Mathematics/Armstrong.java)  | _O(n)_ | _O(1)_      | School     ||
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
