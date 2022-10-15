@@ -6,10 +6,10 @@
 
 ## Solutions
 
-* [Basic Mathematics](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions#mathematics)
+* [Basic-Mathematics](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions#mathematics)
 * [Array](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions#array)
 
-## Basic Mathematics
+## Basic-Mathematics
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 1 | [Count Digits](https://practice.geeksforgeeks.org/problems/count-digits5716/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Mathematics/CountDigits.java)  | _O(n)_ | _O(1)_      | School         ||
