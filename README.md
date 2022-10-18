@@ -24,7 +24,9 @@
 ## Recursion
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
-1 | [Print 1 to n without using loops](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Recursion/print_1_to_n.java)  | _O(n)_ | _O(1)_      | School         ||
+1 | [Print 1 to n without using loops](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Recursion/print_1_to_n.java)  | _O(n)_ | _O(n)_      | School         ||
+2 | [Print name n times](https://practice.geeksforgeeks.org/problems/print-gfg-n-times/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Recursion/print_name_n_times.java)  | _O(n)_ | _O(n)_      | Easy       ||
+3 | [Print n to 1 without using loops](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Recursion/print_n_to_1.java)  | _O(n)_ | _O(n)_      | Easy       ||
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
