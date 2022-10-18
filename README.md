@@ -7,6 +7,7 @@
 ## Solutions
 
 * [Mathematics](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions#mathematics)
+* [Recursion](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions#recursion)
 * [Array](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions#array)
 
 ## Mathematics
@@ -19,6 +20,10 @@
 5 | [Armstrong Numbers](https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Mathematics/Armstrong.java)  | _O(n)_ | _O(1)_      | School     ||
 6 | [Sum of all divisors from 1 to n](https://practice.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Mathematics/SumOfDivisors.java)  | _O(n)_ | _O(1)_      | Easy     ||
 7 | [Prime Number](https://practice.geeksforgeeks.org/problems/prime-number2314/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Mathematics/PrimeNumber.java)  | _O(sqrt(N))_ | _O(1)_      | Basic     ||
+
+## Recursion
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
