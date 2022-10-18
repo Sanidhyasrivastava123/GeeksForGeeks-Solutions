@@ -24,6 +24,7 @@
 ## Recursion
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
+1 | [Print 1 to n without using loops](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Recursion/print_1_to_n.java)  | _O(n)_ | _O(1)_      | School         ||
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
