@@ -1,7 +1,7 @@
 # [GeeksForGeeks](https://www.geeksforgeeks.org/)
 
 ![Language](https://img.shields.io/badge/language-JAVA%20%20-orange.svg)&nbsp;
-![Progress](https://img.shields.io/badge/progress-7%20%2F%20450-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-7%20%2F%20400-ff69b4.svg)&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Sanidhyasrivastava123.leetcode.solutions)
 
 ## Solutions
