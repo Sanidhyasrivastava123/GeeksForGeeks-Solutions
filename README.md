@@ -8,6 +8,7 @@
 
 * [Mathematics](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions#mathematics)
 * [Recursion](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions#recursion)
+* [Sorting](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions#sorting)
 * [Array](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions#array)
 
 ## Mathematics
