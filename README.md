@@ -28,6 +28,11 @@
 2 | [Print name n times](https://practice.geeksforgeeks.org/problems/print-gfg-n-times/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Recursion/print_name_n_times.java)  | _O(n)_ | _O(n)_      | Easy       ||
 3 | [Print n to 1 without using loops](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Recursion/print_n_to_1.java)  | _O(n)_ | _O(n)_      | Easy       ||
 
+## Sorting
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |
+1 | [Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Sorting/bubbleSort.java)  | _O(n^2)_ | _O(1)_      | Easy       ||
+
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
