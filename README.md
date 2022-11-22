@@ -33,6 +33,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 1 | [Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Sorting/bubbleSort.java)  | _O(n^2)_ | _O(1)_      | Easy       ||
+2 | [Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Sorting/Selection-Sort.java)  | _O(n^2)_ | _O(1)_      | Easy       ||
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
