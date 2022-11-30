@@ -36,6 +36,7 @@
 2 | [Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Sorting/Selection-Sort.java)  | _O(n^2)_ | _O(1)_      | Easy       ||
 3 | [Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Sorting/insertionSort.java)  | _O(n^2)_ | _O(1)_      | Easy       ||
 4 | [Merge Sort ](https://practice.geeksforgeeks.org/problems/merge-sort/1) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Sorting/MergeSort.java)  | _O(nlogn)_ | _O(n)_      | Medium      ||
+5 | [Quick Sort ](https://practice.geeksforgeeks.org/problems/quick-sort/1) | [Java]((https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Sorting/QuickSort.java)  | _O(nlogn)_ | _O(1)_      | Medium      ||
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
