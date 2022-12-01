@@ -41,6 +41,7 @@
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
+1 | [Largest Element in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Arrays/LargestElement.java)  | _O(n)_ | _O(1)_      | Basic         ||
 11 | [Reverse an array](https://practice.geeksforgeeks.org/problems/reverse-an-array/0) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Arrays/reverseAnArray.java)  | _O(n)_ | _O(1)_      | School         ||
 12 | [Find the maximum and minimum element in an array](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | [Java](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Arrays/Min%26Max.java)  | _O(n)_ | _O(1)_      | Basic         ||
 13 | [Find the kth smallest element in an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | [Java-1](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Arrays/kthSmallestElement.java) , [Java-2](https://github.com/Sanidhyasrivastava123/GeeksForGeeks-Solutions/blob/main/Arrays/kthSmallestElement-2.java) | _O(nlogn)_ , _O(nlogk)_| _O(1)_  ,_O(k)_    | Medium      ||
